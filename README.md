@@ -1,6 +1,6 @@
 # C Pattern
 通过详细的用例来阐明C/C++的基本语法与模式。
-这里的测试用例是基于[google test](code.google.com/p/googletest/)的
+这里的测试用例是基于[google test](https://code.google.com/p/googletest/)的
 ## 使用
 ### 编译配置google test
 
